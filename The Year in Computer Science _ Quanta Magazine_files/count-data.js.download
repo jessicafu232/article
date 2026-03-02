@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":" ","multiple":"{num}","one":"1"}},"counts":[{"id":"157326 https:\/\/www.quantamagazine.org\/?p=157326","comments":2},{"id":"158039 https:\/\/www.quantamagazine.org\/?p=158039","comments":4},{"id":"157734 https:\/\/www.quantamagazine.org\/?p=157734","comments":7},{"id":"158921 https:\/\/www.quantamagazine.org\/?p=158921","comments":3}]});
+}
